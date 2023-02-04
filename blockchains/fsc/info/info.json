@@ -1,0 +1,21 @@
+{
+    "name": "FON blockchain Chain",
+    "website": "https://fonscan.com/",
+    "description": "FON blockchain for transactions, addresses, tokens, prices and other activities taking pla.",
+    "explorer": "https://fonscan.com/",
+    "symbol": "FON",
+    "type": "coin",
+    "decimals": 18,
+    "rpc_url": "https://fonscan.com",
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/FONSmartChain"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Fonofficial"
+        }
+    ]
+}
